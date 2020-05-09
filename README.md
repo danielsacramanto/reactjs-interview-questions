@@ -6317,3 +6317,13 @@ You can download the PDF and Epub version of this repository from the latest run
      2. Use of interfaces for complex type definitions
      3. IDEs such as VS Code was made for TypeScript
      4. Avoid bugs with the ease of readability and Validation
+
+
+
+
+
+
+
+
+
+* [Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
